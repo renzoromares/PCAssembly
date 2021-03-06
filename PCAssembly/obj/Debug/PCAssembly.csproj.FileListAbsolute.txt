@@ -1,0 +1,10 @@
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\bin\Debug\PCAssembly.exe.config
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\bin\Debug\PCAssembly.exe
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\bin\Debug\PCAssembly.pdb
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.csprojAssemblyReference.cache
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.Properties.Resources.resources
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.csproj.GenerateResource.cache
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.exe
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.pdb
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.Menu.resources
+E:\Study Area\System Analysis and Design\PCAssembly\PCAssembly\obj\Debug\PCAssembly.Login.resources
