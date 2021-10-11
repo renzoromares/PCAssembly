@@ -1,2 +1,2 @@
 # PCAssembly
-My mini project in System Analysis and Design
+Mini Project in System Analysis and Design
